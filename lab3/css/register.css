@@ -1,0 +1,78 @@
+body {
+    font-family: SimSun-ExtB;
+    margin: 0;
+    color: #000000;
+    background-color: #f6f6f6;
+    line-height: 1.5;
+}
+
+header {
+    word-spacing: 10px;
+    color: #000000;
+    font-weight: bold;
+    background-color: #ffffff;
+    text-align: center;
+    height: 40px;
+    padding-top: 20px;
+}
+nav {
+    font-family: SimSun-ExtB;
+    font-size:large;
+    float: right;
+    padding-right: 50px;
+    margin-right: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: #87bff2;
+}
+nav a:hover{
+    color: crimson;
+}
+section{
+    line-height: 35px;
+    padding: 10px;
+    margin: 10px 150px;
+    background-color: white;
+}
+.account{
+    padding: 10px;
+    margin: 10px 150px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+input, textarea {
+    padding: 10px;
+    margin: 10px;
+    width: 35%;
+    background-color: #ffffff;
+    border: #56707f solid 1px;
+    border-radius: 5px;
+    color: #000000
+}
+
+select {
+    background-color: #ffffff;
+    border: #56707f solid 1px;
+    color: #000000
+}
+
+input[type="checkbox"], input[type="radio"] {
+    width: 2em;
+}
+
+input[type="button"],input[type="submit"]  {
+    background-color: #ffffff;
+    border: #171a21 solid 1px;
+    width: 4em;
+}
+
+input[type="button"],input[type="submit"],input[type="checkbox"], input[type="radio"], select:hover {
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+textarea {
+    height: 20em;
+}

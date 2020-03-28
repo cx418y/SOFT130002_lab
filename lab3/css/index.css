@@ -1,0 +1,118 @@
+body {
+    font-family: SimSun-ExtB;
+    margin: 0;
+    color: #000000;
+    background-color: #f6f6f6;
+    line-height: 1.5;
+}
+
+header {
+    word-spacing: 10px;
+    color: #000000;
+    font-weight: bold;
+    background-color: #FFFFFF;
+    text-align: center;
+    height: 70px;
+    padding-top: 20px;
+}
+nav {
+    font-family: SimSun-ExtB;
+    font-size:large;
+    float: left;
+    padding-left: 200px;
+}
+nav img{
+    vertical-align: center;
+    background-color: azure;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: #87bff2;
+}
+.header-left{
+    float: right;
+    margin-top: 10px;
+    padding: 0px;
+}
+.header-right {
+    font-size:large;
+    margin-right: 200px;
+    margin-top: 5px;
+    padding-right: 20px;
+    float: right;
+}
+aside{
+    font-weight: bolder;
+    margin: 1% 5%;
+    float: right;
+    padding-right: 100px;
+}
+aside li {
+    text-align: center;
+    padding: 0.2em 0;
+}
+section{
+    line-height: 35px;
+}
+.contents{
+    padding: 10px;
+    margin: 10px 150px;
+    background-color: white;
+}
+.title1{
+    margin:10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+h2{
+    color: #000000;
+    text-align: left;
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+
+h3 {
+    color: #000000;
+    text-align: left;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+section blockquote {
+    line-height: 5px;
+    margin-left:  30px;
+    width: 50%;
+    font-size: small;
+    background-color: #87bff2;
+    background-size: 50px;
+    padding: 0.7em;
+    color: #171a21;
+    font-style: italic;
+}
+h4{
+    margin-left: 20px;
+}
+section ul li div{
+    margin-left: 20px;
+}
+section ul{
+    list-style: none;
+}
+button{
+    color: black;
+    border: none;
+    background-color: white;
+    font-size: large;
+}
+
+.pages{
+    text-align: center;
+    color: black;
+}
+span.current{
+    font-weight: bold;
+    color: crimson;
+}
