@@ -25,6 +25,8 @@ Home、Browser、Search和My account条目，放在一个**collapse**样式的di
 ##作业效果图
 如下：
 
-![image/sample](images/sample/sample1.png)
-![image/sample](images/sample/sample2.png)
+![sample](images/sample/sample1.png)
+
+
+![sample](images/sample/sample2.png)
 
