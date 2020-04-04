@@ -2,7 +2,7 @@ Lab4 设计文档
 ==========
 -------------------
 ## 导航栏
-导航栏采用的是bootstrap的**默认的导航条样式**，用Bootstrap中的.navbar-fixed-top将导航栏**固定在顶部**，用.navbar-inverse将导航栏的背景颜色设置为黑色。
+导航栏采用的是bootstrap的**默认的导航条样式**，用.navbar-inverse将导航栏的背景颜色设置为黑色。
 
 导航条最左边是“品牌图标”，放在一个div中，采用**container-fluid**和**navbar-header**类，并在img中设置图片的宽和高。
 
@@ -25,8 +25,6 @@ Home、Browser、Search和My account条目，放在一个**collapse**样式的di
 ## 作业效果图
 如下：
 
-![sample](images/sample/sample1.PNG)
+![sample](images/sample/sample.png)
 
-
-![sample](images/sample/sample2.PNG)
 
