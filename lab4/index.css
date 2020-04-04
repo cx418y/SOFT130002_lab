@@ -1,0 +1,30 @@
+.navbar-brand{
+    padding: 6px 6px;
+}
+footer{
+    background-color: #222222;
+}
+.row{
+    margin-top: 30px;
+    margin-left: 110px;
+}
+.copyright{
+    color: white;
+    text-align: center;
+}
+footer a{
+    color: white;
+}
+.col-xs-3{
+    margin: 20px;
+}
+.refresh{
+    position:fixed;
+    bottom: 50px;
+    right: 10px;
+}
+.back-to-top{
+    position:fixed;
+    bottom: 0px;
+    right: 10px;
+}
